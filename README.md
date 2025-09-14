@@ -1,4 +1,4 @@
-# Bold – Metronic 9.2.5 Tailwind
+# Metronic 9.2.5 Tailwind
 
 Denne repository indeholder en tilpasset opsætning af Metronic 9 (Tailwind-udgaven) for HTML-projekter. Koden er baseret på Metronic 9.2.5 og anvender Tailwind CSS v4, PostCSS og Webpack til at bygge aktiver (CSS/JS) samt bundte tredjeparts‑vendors (ApexCharts, Leaflet, KeenIcons m.fl.).
 
